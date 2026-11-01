@@ -103,8 +103,8 @@ Python packages: `groq`, `mss`, `Pillow`, `pystray` (see `requirements.txt`).
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>/kahoot_overlay
+git clone https://github.com/husnain-official/kahoot-hack-poc.git
+cd <kahoot-hack-poc>/kahoot_overlay
 pip install -r requirements.txt
 ```
 
