@@ -104,8 +104,8 @@ Python packages: `groq`, `mss`, `Pillow`, `pystray` (see `requirements.txt`).
 
 ```bash
 git clone https://github.com/husnain-official/kahoot-hack-poc.git
-cd <kahoot-hack-poc>/kahoot_overlay
-pip install -r requirements.txt
+cd kahoot-hack-poc/kahoot_overlay
+pip install -r ../requirements.txt
 ```
 
 Provide your Groq API key in **one** of two ways:
